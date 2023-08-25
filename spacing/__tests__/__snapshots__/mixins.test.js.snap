@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mixins Element should get space from all side without queries 1`] = `
+.c0 {
+  margin: 2rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should add custom margin to all directions in one line, if array passed 1`] = `
+.c0 {
+  margin: 1rem 0.25rem 1.5rem 1rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should add custom margin to horizontal and vertical directions 1`] = `
+.c0 {
+  margin: 1rem 2rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should add custom margin to horizontal and vertical directions in different media queries 1`] = `
+.c0 {
+  margin: 1rem 0.25rem;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    margin: 2rem 1rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should have get margin from top - no queries 1`] = `
+.c0 {
+  margin-top: 2rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should have get padding from all side with all media queries 1`] = `
+.c0 {
+  padding: 0.25rem;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    padding: 0.5rem;
+  }
+}
+
+@media (min-width:64em) {
+  .c0 {
+    padding: 1rem;
+  }
+}
+
+@media (min-width:75em) {
+  .c0 {
+    padding: 1.5rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Mixins Should have get padding from all side with md media query 1`] = `
+@media (min-width:64em) {
+  .c0 {
+    padding: 1rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;

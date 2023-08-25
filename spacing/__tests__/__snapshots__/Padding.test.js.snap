@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Padding Should have Padding left only without any media queries 1`] = `
+.c0 {
+  padding-left: 3rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have Padding left only without any media queries, if user pass string 1`] = `
+.c0 {
+  padding-right: 2rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have Padding top only without any media queries 1`] = `
+.c0 {
+  padding-top: 3rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have empty value, if user pass empty object 1`] = `
+<div
+  className=""
+/>
+`;
+
+exports[`Padding Should have inline props if inline prop is passed 1`] = `
+.c0 {
+  display: inline-block !important;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have no style when no props are passed 1`] = `
+<div
+  className=""
+/>
+`;
+
+exports[`Padding Should have no style, if user pass empty string 1`] = `
+<div
+  className=""
+/>
+`;
+
+exports[`Padding Should have xs to rem Padding from all side 1`] = `
+.c0 {
+  padding: 0.25rem;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have xs, sm to rem Padding from all side 1`] = `
+.c0 {
+  padding: 0.25rem;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    padding: 1rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Padding Should have xs, sm to rem Padding from right side only 1`] = `
+.c0 {
+  padding-right: 1rem;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    padding-right: 1.5rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;
