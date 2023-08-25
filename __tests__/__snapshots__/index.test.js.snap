@@ -1,0 +1,2818 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should hide elements if user clicks outside 1`] = `
+Array [
+  .c2 {
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #ffffff;
+  border: none;
+  white-space: nowrap;
+  cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.c6:hover,
+.c6:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6.active,
+.c6.active span {
+  color: #0e680e !important;
+}
+
+.c6 span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  height: 5.5rem;
+  box-shadow: 0px -5px 7px rgba(58,59,65,0.07);
+  background: #ffffff;
+  z-index: 4900;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.c0 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 a:hover,
+.c0 a:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a.active,
+.c0 a.active span {
+  color: #0e680e !important;
+}
+
+.c0 a span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c5 {
+  position: fixed;
+  background: #ffffff;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 5.5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  -webkit-animation: fResfi 0.2s ease-out;
+  animation: fResfi 0.2s ease-out;
+  z-index: -1;
+  border-bottom: 1px solid #cfd1d8;
+}
+
+.c5 .c1 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  border-bottom: 1px solid #cfd1d8;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin: 0;
+}
+
+.c5 .c1 svg {
+  display: none;
+}
+
+.c5 .c1 span {
+  color: #3a3b41;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.c5 .c1:last-child {
+  border: none;
+}
+
+.c5 a,
+.c5 a span {
+  margin: 0;
+}
+
+.c5 a,
+.c5 a span:hover {
+  color: #1f63d2;
+}
+
+.c3 {
+  display: inline;
+  line-height: inherit;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c4 {
+  font-weight: 500;
+}
+
+@media (min-width:48em) {
+  .c2 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    -webkit-align-items: start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c6 span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 {
+    position: static;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    border: 1px solid #cfd1d8;
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c0 a span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c5 {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1.5rem);
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    min-width: 17rem;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    left: unset;
+    box-shadow: 0px 7px 20px rgba(58,59,65,0.2);
+    -webkit-animation: gRpFTv 0.2s ease-out;
+    animation: gRpFTv 0.2s ease-out;
+    -webkit-transform-origin: top right;
+    -ms-transform-origin: top right;
+    transform-origin: top right;
+    z-index: 0;
+    border-bottom: none;
+  }
+}
+
+<nav
+    className="c0"
+    id="urc-SubNavigation"
+  >
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="accountSubNavLink"
+        onClick={[Function]}
+        role="menuitem"
+        to="/account"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Account
+        </span>
+      </NavLink>
+      <div
+        className="c5"
+        hidden={true}
+        id=":rh:"
+        role="menu"
+      >
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Transfer in
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":rj:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Debit card funding
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":rk:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit a check
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":rl:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit history
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="homeSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/home"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Home
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="settingSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/setting"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Setting
+        </span>
+      </NavLink>
+    </div>
+  </nav>,
+  <Spacer
+    breakpoint="sm"
+    sourceRef={
+      Object {
+        "current": null,
+      }
+    }
+  />,
+]
+`;
+
+exports[`should render first and second level items 1`] = `
+Array [
+  .c2 {
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #ffffff;
+  border: none;
+  white-space: nowrap;
+  cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.c6:hover,
+.c6:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6.active,
+.c6.active span {
+  color: #0e680e !important;
+}
+
+.c6 span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  height: 5.5rem;
+  box-shadow: 0px -5px 7px rgba(58,59,65,0.07);
+  background: #ffffff;
+  z-index: 4900;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.c0 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 a:hover,
+.c0 a:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a.active,
+.c0 a.active span {
+  color: #0e680e !important;
+}
+
+.c0 a span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c5 {
+  position: fixed;
+  background: #ffffff;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 5.5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  -webkit-animation: fResfi 0.2s ease-out;
+  animation: fResfi 0.2s ease-out;
+  z-index: -1;
+  border-bottom: 1px solid #cfd1d8;
+}
+
+.c5 .c1 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  border-bottom: 1px solid #cfd1d8;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin: 0;
+}
+
+.c5 .c1 svg {
+  display: none;
+}
+
+.c5 .c1 span {
+  color: #3a3b41;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.c5 .c1:last-child {
+  border: none;
+}
+
+.c5 a,
+.c5 a span {
+  margin: 0;
+}
+
+.c5 a,
+.c5 a span:hover {
+  color: #1f63d2;
+}
+
+.c3 {
+  display: inline;
+  line-height: inherit;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c4 {
+  font-weight: 500;
+}
+
+@media (min-width:48em) {
+  .c2 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    -webkit-align-items: start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c6 span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 {
+    position: static;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    border: 1px solid #cfd1d8;
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c0 a span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c5 {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1.5rem);
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    min-width: 17rem;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    left: unset;
+    box-shadow: 0px 7px 20px rgba(58,59,65,0.2);
+    -webkit-animation: gRpFTv 0.2s ease-out;
+    animation: gRpFTv 0.2s ease-out;
+    -webkit-transform-origin: top right;
+    -ms-transform-origin: top right;
+    transform-origin: top right;
+    z-index: 0;
+    border-bottom: none;
+  }
+}
+
+<nav
+    className="c0"
+    id="urc-SubNavigation"
+  >
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="accountSubNavLink"
+        onClick={[Function]}
+        role="menuitem"
+        to="/account"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Account
+        </span>
+      </NavLink>
+      <div
+        className="c5"
+        hidden={true}
+        id=":r3:"
+        role="menu"
+      >
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Transfer in
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":r5:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Debit card funding
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":r6:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit a check
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":r7:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit history
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="homeSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/home"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Home
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="settingSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/setting"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Setting
+        </span>
+      </NavLink>
+    </div>
+  </nav>,
+  <Spacer
+    breakpoint="sm"
+    sourceRef={
+      Object {
+        "current": null,
+      }
+    }
+  />,
+]
+`;
+
+exports[`should render first and second level items plus account item children and overlay 1`] = `
+Array [
+  .c0 {
+  background-color: rgba(58,59,65,0.5);
+  position: fixed;
+  z-index: 4899;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  -webkit-animation: jgQpwH 0.2s ease-out;
+  animation: jgQpwH 0.2s ease-out;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    display: none;
+  }
+}
+
+<div
+    className="c0"
+    onClick={[Function]}
+  />,
+  .c2 {
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #ffffff;
+  border: none;
+  white-space: nowrap;
+  cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.c6:hover,
+.c6:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6.active,
+.c6.active span {
+  color: #0e680e !important;
+}
+
+.c6 span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  height: 5.5rem;
+  box-shadow: 0px -5px 7px rgba(58,59,65,0.07);
+  background: #ffffff;
+  z-index: 4900;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.c0 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 a:hover,
+.c0 a:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a.active,
+.c0 a.active span {
+  color: #0e680e !important;
+}
+
+.c0 a span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c5 {
+  position: fixed;
+  background: #ffffff;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 5.5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  -webkit-animation: fResfi 0.2s ease-out;
+  animation: fResfi 0.2s ease-out;
+  z-index: -1;
+  border-bottom: 1px solid #cfd1d8;
+}
+
+.c5 .c1 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  border-bottom: 1px solid #cfd1d8;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin: 0;
+}
+
+.c5 .c1 svg {
+  display: none;
+}
+
+.c5 .c1 span {
+  color: #3a3b41;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.c5 .c1:last-child {
+  border: none;
+}
+
+.c5 a,
+.c5 a span {
+  margin: 0;
+}
+
+.c5 a,
+.c5 a span:hover {
+  color: #1f63d2;
+}
+
+.c3 {
+  display: inline;
+  line-height: inherit;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c4 {
+  font-weight: 500;
+}
+
+@media (min-width:48em) {
+  .c2 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    -webkit-align-items: start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c6 span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 {
+    position: static;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    border: 1px solid #cfd1d8;
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c0 a span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c5 {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1.5rem);
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    min-width: 17rem;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    left: unset;
+    box-shadow: 0px 7px 20px rgba(58,59,65,0.2);
+    -webkit-animation: gRpFTv 0.2s ease-out;
+    animation: gRpFTv 0.2s ease-out;
+    -webkit-transform-origin: top right;
+    -ms-transform-origin: top right;
+    transform-origin: top right;
+    z-index: 0;
+    border-bottom: none;
+  }
+}
+
+<nav
+    className="c0"
+    id="urc-SubNavigation"
+  >
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="accountSubNavLink"
+        onClick={[Function]}
+        role="menuitem"
+        to="/account"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Account
+        </span>
+      </NavLink>
+      <div
+        className="c5"
+        hidden={false}
+        id=":ra:"
+        role="menu"
+      >
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Transfer in
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":rc:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Debit card funding
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":rd:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit a check
+            </span>
+          </button>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <button
+            aria-controls=":re:"
+            aria-expanded={false}
+            aria-haspopup="menu"
+            className="c6"
+            onClick={[Function]}
+            role="menuitem"
+          >
+            <svg
+              className="c3"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c4"
+            >
+              Deposit history
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="homeSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/home"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Home
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="settingSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/setting"
+      >
+        <svg
+          className="c3"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c4"
+        >
+          Setting
+        </span>
+      </NavLink>
+    </div>
+  </nav>,
+  <Spacer
+    breakpoint="sm"
+    sourceRef={
+      Object {
+        "current": null,
+      }
+    }
+  />,
+]
+`;
+
+exports[`should render first level items 1`] = `
+Array [
+  .c1 {
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  height: 5.5rem;
+  box-shadow: 0px -5px 7px rgba(58,59,65,0.07);
+  background: #ffffff;
+  z-index: 4900;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.c0 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 a:hover,
+.c0 a:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a.active,
+.c0 a.active span {
+  color: #0e680e !important;
+}
+
+.c0 a span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c2 {
+  display: inline;
+  line-height: inherit;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c3 {
+  font-weight: 500;
+}
+
+@media (min-width:48em) {
+  .c1 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    -webkit-align-items: start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 {
+    position: static;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    border: 1px solid #cfd1d8;
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c0 a span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+<nav
+    className="c0"
+    id="urc-SubNavigation"
+  >
+    <div
+      className="c1"
+    >
+      <NavLink
+        className=""
+        data-auto="accountSubNavLink"
+        onClick={[Function]}
+        role="menuitem"
+        to="/account"
+      >
+        <svg
+          className="c2"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c3"
+        >
+          Account
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1"
+    >
+      <NavLink
+        className=""
+        data-auto="homeSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/home"
+      >
+        <svg
+          className="c2"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c3"
+        >
+          Home
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1"
+    >
+      <NavLink
+        className=""
+        data-auto="settingSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/setting"
+      >
+        <svg
+          className="c2"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c3"
+        >
+          Setting
+        </span>
+      </NavLink>
+    </div>
+  </nav>,
+  <Spacer
+    breakpoint="sm"
+    sourceRef={
+      Object {
+        "current": null,
+      }
+    }
+  />,
+]
+`;
+
+exports[`should return null if there is no any children 1`] = `null`;
+
+exports[`test close and open menu 1`] = `
+Array [
+  .c0 {
+  background-color: rgba(58,59,65,0.5);
+  position: fixed;
+  z-index: 4899;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  -webkit-animation: jgQpwH 0.2s ease-out;
+  animation: jgQpwH 0.2s ease-out;
+}
+
+@media (min-width:48em) {
+  .c0 {
+    display: none;
+  }
+}
+
+<div
+    className="c0"
+    onClick={[Function]}
+  />,
+  .c2 {
+  position: relative;
+  background-color: #ffffff;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #ffffff;
+  border: none;
+  white-space: nowrap;
+  cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.c3:hover,
+.c3:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3.active,
+.c3.active span {
+  color: #0e680e !important;
+}
+
+.c3 span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  height: 5.5rem;
+  box-shadow: 0px -5px 7px rgba(58,59,65,0.07);
+  background: #ffffff;
+  z-index: 4900;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.c0 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #686c78;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0 a:hover,
+.c0 a:active {
+  color: #1f63d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a.active,
+.c0 a.active span {
+  color: #0e680e !important;
+}
+
+.c0 a span {
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  line-height: 1;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: normal;
+  font-size: 0.8125rem;
+}
+
+.c6 {
+  position: fixed;
+  background: #ffffff;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 5.5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  -webkit-animation: fResfi 0.2s ease-out;
+  animation: fResfi 0.2s ease-out;
+  z-index: -1;
+  border-bottom: 1px solid #cfd1d8;
+}
+
+.c6 .c1 {
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: start;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: start;
+  border-bottom: 1px solid #cfd1d8;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin: 0;
+}
+
+.c6 .c1 svg {
+  display: none;
+}
+
+.c6 .c1 span {
+  color: #3a3b41;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.c6 .c1:last-child {
+  border: none;
+}
+
+.c6 a,
+.c6 a span {
+  margin: 0;
+}
+
+.c6 a,
+.c6 a span:hover {
+  color: #1f63d2;
+}
+
+.c4 {
+  display: inline;
+  line-height: inherit;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c5 {
+  font-weight: 500;
+}
+
+@media (min-width:48em) {
+  .c2 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    -webkit-align-items: start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
+  }
+}
+
+@media (min-width:48em) {
+  .c3 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c3 span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c3 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 {
+    position: static;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    border: 1px solid #cfd1d8;
+    border-radius: 8px;
+    box-shadow: none;
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .c0 a span {
+    margin-top: 0;
+    margin-left: 1rem;
+    text-align: left;
+    font-size: 0.875rem;
+  }
+}
+
+@media (min-width:48em) {
+  .c0 a {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media (min-width:48em) {
+  .c6 {
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1.5rem);
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    min-width: 17rem;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    left: unset;
+    box-shadow: 0px 7px 20px rgba(58,59,65,0.2);
+    -webkit-animation: gRpFTv 0.2s ease-out;
+    animation: gRpFTv 0.2s ease-out;
+    -webkit-transform-origin: top right;
+    -ms-transform-origin: top right;
+    transform-origin: top right;
+    z-index: 0;
+    border-bottom: none;
+  }
+}
+
+<nav
+    className="c0"
+    id="urc-SubNavigation"
+  >
+    <div
+      className="c1 c2"
+    >
+      <button
+        aria-controls=":ro:"
+        aria-expanded={true}
+        aria-haspopup="menu"
+        className="c3 active"
+        data-auto="accountSubNavLink"
+        onClick={[Function]}
+        role="menuitem"
+      >
+        <svg
+          className="c4"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c5"
+        >
+          Account
+        </span>
+      </button>
+      <div
+        className="c6"
+        hidden={false}
+        id=":ro:"
+        role="menu"
+      >
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/t"
+          >
+            <svg
+              className="c4"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c5"
+            >
+              Transfer in
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/d"
+          >
+            <svg
+              className="c4"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c5"
+            >
+              Debit card funding
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/c"
+          >
+            <svg
+              className="c4"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c5"
+            >
+              Deposit a check
+            </span>
+          </NavLink>
+        </div>
+        <div
+          className="c1 c2"
+        >
+          <NavLink
+            className=""
+            onClick={[Function]}
+            role="menuitem"
+            to="/dd"
+          >
+            <svg
+              className="c4"
+              role="presentation"
+              style={
+                Object {
+                  "height": "1.5rem",
+                  "width": "1.5rem",
+                }
+              }
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="none"
+                style={
+                  Object {
+                    "fill": "currentColor",
+                  }
+                }
+              />
+            </svg>
+            <span
+              className="c5"
+            >
+              Deposit history
+            </span>
+          </NavLink>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="homeSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/home"
+      >
+        <svg
+          className="c4"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c5"
+        >
+          Home
+        </span>
+      </NavLink>
+    </div>
+    <div
+      className="c1 c2"
+    >
+      <NavLink
+        className=""
+        data-auto="settingSubNav"
+        onClick={[Function]}
+        role="menuitem"
+        to="/setting"
+      >
+        <svg
+          className="c4"
+          role="presentation"
+          style={
+            Object {
+              "height": "1.5rem",
+              "width": "1.5rem",
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="mdiCardBulletedOutline"
+            style={
+              Object {
+                "fill": "currentColor",
+              }
+            }
+          />
+        </svg>
+        <span
+          className="c5"
+        >
+          Setting
+        </span>
+      </NavLink>
+    </div>
+  </nav>,
+  <Spacer
+    breakpoint="sm"
+    sourceRef={
+      Object {
+        "current": null,
+      }
+    }
+  />,
+]
+`;
